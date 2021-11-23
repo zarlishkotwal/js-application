@@ -1,0 +1,92 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.section1 {
+    border: 2px solid black;
+}
+
+.col-1 {
+    text-align: center;
+}
+
+.myBtn {
+    margin: 20px;
+    background-color: black;
+    color: white;
+}
+
+
+ .section2 {
+    border: 2px solid black;
+    text-align: center;
+    margin-top: 40px;
+    background-color: black;
+}
+
+.myImage {
+    display: none;
+}
+
+.showImage {
+    display: block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+}
+
+.bigImage {
+    width: 500px;
+}
+
+.smallImage {
+    width: 200px;
+}
+
+.hide {
+    display: none;
+} 
+
+.container4 p {
+    margin: 20px 40px;
+  }
+  
+  .container4 .btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .container4 .btn button {
+    height: 30px;
+    margin: 0px 10px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+    padding: 0px 10px;
+  }
+  
+  .container5 p {
+    margin: 20px 40px;
+  }
+  
+  .container5 .btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .container5 .btn button {
+    height: 30px;
+    margin: 0px 10px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+    padding: 0px 10px;
+  }
+  
